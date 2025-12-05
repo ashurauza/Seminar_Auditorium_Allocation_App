@@ -1,0 +1,39 @@
+{
+  "name": "auditorium",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": {
+    "name": "Ashutosh Kumar Singh",
+    "email": "ashurauza@gmail.com",
+    "phone": "+91 9060948710"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashurauza/Seminar_Auditorium_Allocation_App.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.7.4",
+    "lucide-react": "^0.488.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.2.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.21.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.3.1"
+  }
+}
