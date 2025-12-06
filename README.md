@@ -2,6 +2,10 @@
 
 A modern web application for managing seminar hall and auditorium bookings at ABES Engineering College.
 
+## 🔗 Live Demo
+
+**Deployed Link:** [https://ashurauza.github.io/Seminar_Auditorium_Allocation_App/](https://ashurauza.github.io/Seminar_Auditorium_Allocation_App/)
+
 ## Features
 
 - **User Authentication** - Secure login/signup with role-based access (Admin, Faculty, Student)
